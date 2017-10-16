@@ -1,6 +1,0 @@
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\obj\Debug\Therapist Simulator.csprojResolveAssemblyReference.cache
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\bin\Debug\Therapist Simulator.exe.config
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\bin\Debug\Therapist Simulator.exe
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\bin\Debug\Therapist Simulator.pdb
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\obj\Debug\Therapist Simulator.exe
-c:\users\jacob\documents\visual studio 2017\Projects\Therapist Simulator\Therapist Simulator\obj\Debug\Therapist Simulator.pdb
