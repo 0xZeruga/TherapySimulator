@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Therapist_Simulator
-{
     public static class Tools
     {
 
@@ -35,4 +33,4 @@ namespace Therapist_Simulator
     }
 
     
-}
+

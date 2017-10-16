@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Therapist_Simulator
-{
     public class Actions
     {
+        //Test
         private List<Condition> SuspectedCondition = new List<Condition>();
 
         /// <summary>
@@ -104,4 +103,4 @@ namespace Therapist_Simulator
             return score;
         }
     }
-}
+

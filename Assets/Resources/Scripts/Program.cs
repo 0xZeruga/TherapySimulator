@@ -3,13 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Therapist_Simulator
-{
-    /// <summary>
-    /// For line counting:
-    /// ^(?([^rn])s)*[^s+?/]+[^n]*$
-
-    /// </summary>
     class Program
     {
         static void Main(string[] args)
@@ -77,4 +70,4 @@ namespace Therapist_Simulator
 
         }
     }
-}
+

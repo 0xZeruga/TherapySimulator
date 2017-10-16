@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Therapist_Simulator
-{
     public class Therapist
     {
         public string Name { get; set; }
@@ -61,5 +59,3 @@ namespace Therapist_Simulator
             ActivePatient = PatientList.First();
         }
     }
-
-}

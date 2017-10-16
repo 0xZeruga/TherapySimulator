@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Therapist_Simulator
-{
-    public class Patient
+public class Patient
     {
         private string m_Name = "";
         private int m_Age;
@@ -314,7 +312,7 @@ namespace Therapist_Simulator
 
     //TODO
     //Introtext for each condition
-}
+
 
 
 

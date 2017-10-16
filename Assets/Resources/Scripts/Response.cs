@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-
-namespace Therapist_Simulator
-{
     /// <summary>
     /// Depending on input data this class returns an AI response.
     /// </summary>
@@ -476,4 +473,4 @@ namespace Therapist_Simulator
         }
 
     }
-}
+
