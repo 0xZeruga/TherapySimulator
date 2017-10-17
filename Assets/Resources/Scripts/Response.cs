@@ -192,12 +192,6 @@ using System.Text;
             {
                 SingleResponse(c, pQuestionType);
             }
-            //TODO: Check conditions towards QuestionType. Pref as pair.
-
-
-
-
-
             Actions.SessionOver(Patient);
         }
 

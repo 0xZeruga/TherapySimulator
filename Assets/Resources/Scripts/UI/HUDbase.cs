@@ -23,17 +23,22 @@ namespace Assets.Resources.Scripts.UI
 
         private SuspectedConditions SuspectedConditions;
         private Results Results;
-        private Money Money;
+        private MoneyPanel Money;
         private QuestionPanel QuestionPanel;
         private Dictionary<Text, Toggle> TextChecker;
 
         public Vector3 m_Alignment;
 
-        public HUDbase()
+        public void Start()
         {
-
-            new Money();
+            Instantiate(GameObject.FindObjectOfType<MoneyPanel>());
         }
+
+        //public HUDbase()
+        //{
+
+        //    new Money();
+        //}
 
         protected void PushPop(GameObject pObj)
         {
