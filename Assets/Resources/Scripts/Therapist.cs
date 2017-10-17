@@ -6,6 +6,8 @@ using System.Text;
     public class Therapist
     {
         public string Name { get; set; }
+
+        //Use these?
         public int Empathy { get; set; }
         public int ProblemSolving { get; set; }
         public int Listening { get; set; }

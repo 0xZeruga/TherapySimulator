@@ -310,6 +310,8 @@ public class Patient
 
     }
 
+
+
     //TODO
     //Introtext for each condition
 

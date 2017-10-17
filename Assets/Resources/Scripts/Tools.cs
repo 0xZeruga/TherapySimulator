@@ -30,6 +30,20 @@ using System.Text;
             Random r = new Random();
             return r.Next(16, 70);
         }
+
+        public static List<Result> AllResultsAsList()
+        {
+        List<Result> AllResult = new List<Result>();
+        AllResult.Add(Result.CALL_THE_POLICE);
+        AllResult.Add(Result.GROUP_THERAPY);
+        AllResult.Add(Result.MEDITATION);
+        AllResult.Add(Result.MENTAL_INSTITUTION);
+        AllResult.Add(Result.PRESCRIPTION);
+        AllResult.Add(Result.RESCHEDULE_MEETING);
+
+        return AllResult;
+        }
+
     }
 
     
